@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173847"/><stop offset="1" stop-color="#0b1724"/></linearGradient><radialGradient id="r"><stop stop-color="#1d827e" stop-opacity=".35"/><stop offset="1" stop-color="#1d827e" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="500" rx="26" fill="url(#g)"/><circle cx="730" cy="80" r="290" fill="url(#r)"/>
+<g stroke="#9fe9e0" stroke-opacity=".12"><path d="M0 100H900M0 200H900M0 300H900M0 400H900M150 0V500M300 0V500M450 0V500M600 0V500M750 0V500"/></g>
+<rect x="110" y="92" width="680" height="316" rx="18" fill="#0b1724" stroke="#8adfd7" stroke-opacity=".4"/>
+<circle cx="155" cy="137" r="7" fill="#70dcd3"/><circle cx="180" cy="137" r="7" fill="#8ba8b1" opacity=".5"/><circle cx="205" cy="137" r="7" fill="#8ba8b1" opacity=".5"/>
+<path d="M145 180H755" stroke="#8ba8b1" stroke-opacity=".25"/>
+<text x="155" y="245" fill="#70dcd3" font-family="Arial" font-size="24" letter-spacing="4">BANTU KUMAR</text>
+<text x="155" y="292" fill="#edf4f6" font-family="Arial" font-size="34" font-weight="bold">Professional Profile</text>
+<text x="155" y="335" fill="#9aabb5" font-family="Arial" font-size="17">Digital experience · Adaptability · New opportunities</text>
+<path d="M155 365H430" stroke="#70dcd3" stroke-width="3" stroke-linecap="round"/>
+</svg>
